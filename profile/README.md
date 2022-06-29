@@ -10,7 +10,7 @@
    </a>
 -->
 
-  <img src="https://img.shields.io/static/v1?label=Status&message=En pausa&color=orange">
+  <img src="https://img.shields.io/static/v1?label=Status&message=En desarrollo&color=blue">
 </p>
 <!--
 <p align="center">
