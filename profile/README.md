@@ -20,7 +20,6 @@
 
 
 
-
 <!--
 <p align="center">
   <img width="100" src="https://raw.githubusercontent.com/EternityPlay/.github/main/profile/logo.png" />
@@ -30,7 +29,7 @@
 <p align="center">
 
    <a href="https://discord.eternityplay.net">
-    <img src="https://img.shields.io/discord/977878632343150662?color=7489d5&logo=discord&logoColor=ffffff" />
+    <img src="https://img.shields.io/discord/977878632343150662?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge" />
    </a>
    
 </p>
