@@ -7,30 +7,10 @@
 <div align='center'>
    <h3>EternityPlay Network</h3>
    <p>
-      <b>Minecraft Java & Bedrock Edition</b>
+      <b>Minecraft Java Edition</b>
    
    [mc.eternityplay.net](https://eternityplay.net)
    </p>
 </div>
 
 ---
-
-
-
-
-
-
-<!--
-<p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/EternityPlay/.github/main/profile/logo.png" />
-</p>
-<h1 align="center">EternityPlay Network</h1>
-
-<p align="center">
-
-   <a href="https://discord.eternityplay.net">
-    <img src="https://img.shields.io/discord/977878632343150662?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge" />
-   </a>
-   
-</p>
--->
